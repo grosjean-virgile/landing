@@ -1,0 +1,13 @@
+.button-red {
+  background-color: #D82148;
+  padding: 13px 18px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bolder;
+  font-family: roboto;
+  font-size: 23px;
+}
+
+.button-red:hover {
+  opacity: 0.8;
+}
